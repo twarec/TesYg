@@ -1,0 +1,67 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 11b64caea72d63142aae19454fd24090, type: 3}
+  m_Name: Russian
+  m_EditorClassIdentifier: 
+  dictionary:
+  - key: Margin
+    value: Поля
+  - key: TV
+    value: TC
+  - key: Settings
+    value: Настройки
+  - key: Map
+    value: Карта
+  - key: Help
+    value: Справка
+  - key: Interface language
+    value: Язык интерфейса
+  - key: General
+    value: Общие
+  - key: Learning mode
+    value: Режим обучения
+  - key: Demo mode
+    value: Демо режим
+  - key: Timeout calibrate
+    value: Таймаут колиброки
+  - key: To display information about the satellites
+    value: Показывать информацию о спутниках
+  - key: Disabled
+    value: Отключен
+  - key: Sounds
+    value: Звуки
+  - key: Sounds and voice
+    value: Звуки и голос
+  - key: Notifications
+    value: Уведомления
+  - key: New name
+    value: Новое имя
+  - key: Name
+    value: Имя
+  - key: Section count
+    value: Кол-во секций
+  - key: New count
+    value: Новое кол-во
+  - key: Save
+    value: Сохранить
+  - key: Track width
+    value: Ширина трека
+  - key: New width
+    value: Новая ширина
+  - key: AB line
+    value: АБ линия
+  - key: Circle line
+    value: Круговая линия
+  - key: Identical line
+    value: Идентичные кривые
+  - key: Adaptive line
+    value: Адаптивные кривые
+
